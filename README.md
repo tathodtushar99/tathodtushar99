@@ -2,6 +2,8 @@
 
 ![White Clean Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/tathodtushar99/tathodtushar99/assets/90443509/79de980a-dd62-43ef-8586-b2ed1f973df7)
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
 
 <h1 align="center">Hi there👋, I'm Tushar Tathod</h1>
 <h3 align="center">I am a passionate data analyst and data science enthusiast based in Maharashtra, India.</h3>
